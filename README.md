@@ -16,3 +16,5 @@ Key platform capabilities included in this repository:
 - A maintained Supabase schema + migrations alongside TypeScript database types used throughout the mobile app.
   
 This repo is intended as a functional prototype and foundation for building a production-grade blood bank coordination system with real-time operations, location-based tracking, and role-specific experiences.
+
+To try the Application you can directly download from here-->  https://expo.dev/accounts/sameer76/projects/mobile/builds/ecc1d80e-9a2a-4986-a777-7fda53acb121
